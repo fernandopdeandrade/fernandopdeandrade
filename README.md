@@ -12,9 +12,9 @@
 #### <span>Meu linKedin => https://www.linkedin.com/in/fernando-pereira-de-andrade-dev/</span>
 
  <div align="left">
-  <a href="https://github.com/fernandopdea">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=fernandopdea&show_icons=true&theme=merko&include_all_commits=true&count_private=true&icon_color=(255,%20159,%200)"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandopdea&layout=compact&langs_count=7&theme=merko"/>
+  <a href="https://github.com/fernandopdeandrade">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=fernandopdeandrade&show_icons=true&theme=merko&include_all_commits=true&count_private=true&icon_color=(255,%20159,%200)"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandopdeandrade&layout=compact&langs_count=7&theme=merko"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -44,6 +44,6 @@
   <a href="https://www.linkedin.com/in/fernando-pereira-de-andrade-07a45b116/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.facebook.com/pupygreen" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/fernandopdea/fernandopdea/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/fernandopdeandrade/fernandopdeandrade/blob/output/github-contribution-grid-snake.svg)
  
 </div>
