@@ -1,4 +1,9 @@
-###         ✨ Fernando Pereira de Andrade ✨ 
+<!-- ###         ✨ Fernando Pereira de Andrade ✨ --> 
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00aeff&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffe100&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Fernando+Andrade;FullStack+Developer;I'm+from+Brazil;Computer+engineer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
 <!--
 - 🌱 Atualmente estudando desenvolvimento web FullStack... 
 - 👯 Compartilhar conhecimento com outros Devs ... 🤔  
