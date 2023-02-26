@@ -43,6 +43,8 @@
   </a>
   <a href="https://www.linkedin.com/in/fernando-pereira-de-andrade-07a45b116/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.facebook.com/pupygreen" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=fernandopdeandrade&bg_color=03082b&color=106704&line=9f0909&point=1d1b1b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
   ![Snake animation](https://github.com/fernandopdeandrade/fernandopdeandrade/blob/output/github-contribution-grid-snake.svg)
  
