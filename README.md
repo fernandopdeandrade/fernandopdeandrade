@@ -12,7 +12,7 @@
 - 👋 https://fernandopdea.github.io -->
 
 <!--#### <p>Full Stack Developer and computer engineering student.</p>-->
-#### ✨ E-mail => pupygreen@gmail.com
+#### ✨ (E-mail) => pupygreen@gmail.com;
 #### ✨ https://fernandopdea.github.io/
 #### ✨ https://coding-in-dreams.com/
 #### ✨ https://www.linkedin.com/in/fernando-pereira-de-andrade-dev/
