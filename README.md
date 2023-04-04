@@ -15,6 +15,7 @@
 #### ✨ (E-mail) => pupygreen@gmail.com;
 #### ✨ https://fernandopdea.github.io/
 #### ✨ https://coding-in-dreams.com/
+#### ✨ Projeto app de receitas => https://easy-to-do.netlify.app/
 #### ✨ https://www.linkedin.com/in/fernando-pereira-de-andrade-dev/
 
  <div align="left">
