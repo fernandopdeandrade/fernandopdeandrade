@@ -13,10 +13,10 @@
 
 <!--#### <p>Full Stack Developer and computer engineering student.</p>-->
 #### ✨ (E-mail) => pupygreen@gmail.com;
-#### ✨ https://fernandopdea.github.io/
-#### ✨ https://coding-in-dreams.com/
+#### ✨ Portfólio => https://fernandopdea.github.io/
+#### ✨ Site pessoal => https://coding-in-dreams.com/
 #### ✨ Projeto app de receitas => https://easy-to-do.netlify.app/
-#### ✨ https://www.linkedin.com/in/fernando-pereira-de-andrade-dev/
+#### ✨ Linkedin => https://www.linkedin.com/in/fernando-pereira-de-andrade-dev/
 
  <div align="left">
   <a href="https://github.com/fernandopdeandrade">
