@@ -14,8 +14,7 @@
 <!--#### <p>Full Stack Developer and computer engineering student.</p>-->
 #### ✨ (E-mail) => pupygreen@gmail.com;
 #### ✨ Portfólio => https://fernandopdea.github.io/
-#### ✨ Site pessoal => https://coding-in-dreams.com/
-#### ✨ Projeto app de receitas => https://easy-to-do.netlify.app/
+#### ✨ Projeto app de receitas => https://front-end-app-recipes.vercel.app/
 #### ✨ Linkedin => https://www.linkedin.com/in/fernando-pereira-de-andrade-dev/
 
  <div align="left">
