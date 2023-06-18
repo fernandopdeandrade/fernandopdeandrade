@@ -2,7 +2,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00aeff&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffe100&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Fernando+Andrade;FullStack+Developer;I'm+from+Brazil;Computer+engineer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffe100&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Fernando+Andrade;FullStack+Developer;Seja+bem+vindo(a)!+:%29)](https://git.io/typing-svg)
 
 <!--
 - 🌱 Atualmente estudando desenvolvimento web FullStack... 
@@ -35,7 +35,8 @@
   <img align="center" alt="Fernando-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Fernando-typescript" height="60" width="40" src="https://github.com/microsoft/TypeScript-Website/blob/f407e1ae19e5e990d9901ac8064a32a8cc60edf0/packages/typescriptlang-org/static/branding/ts-logo-512.svg">
    <img align="center" alt="Fernando-postgresql" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-    <img align="center" alt="Fernando-mongodb" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
+    <img align="center" alt="Fernando-mongodb" height="60" width="50" src
+="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
      <img align="center" alt="Fernando-mysql" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
        <img align="center" alt="Fernando-jquery" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg">
          <img align="center" alt="Fernando-bootstrap" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
