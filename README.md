@@ -13,7 +13,7 @@
 
 <!--#### <p>Full Stack Developer and computer engineering student.</p>-->
 #### ✨ (E-mail) => pupygreen@gmail.com;
-#### ✨ Portfólio => https://fernandopdeandrade.github.io/portfolio-github-io/
+#### ✨ Portfólio => https://fernandopdeandrade.github.io/portfolio-react/#/
 #### ✨ Projeto app de receitas => https://front-end-app-recipes.vercel.app/
 #### ✨ Linkedin => https://www.linkedin.com/in/fernando-pereira-de-andrade-dev/
 
